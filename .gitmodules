@@ -1,0 +1,6 @@
+[submodule "codecast-ai"]
+	path = codecast-ai
+	url = git@github.com:jeanmira/codecast-ai.git
+[submodule "book-ia"]
+	path = book-ia
+	url = git@github.com:jeanmira/book-ia.git
